@@ -11,25 +11,26 @@
   font-weight: 700;
   font-size: 3rem;
   text-shadow: 0 0 17px rgba(128,128,128,1);
-  margin: 92px 1002px 0 0;
+  margin: 36px 990px 0 15;
 }
 
 .u-section-1 .u-text-2 {
   font-size: 6rem;
   font-weight: 700;
-  margin: 259px auto 0;
+  margin: 260px auto 0;
 }
 
 .u-section-1 .u-text-3 {
   font-weight: 700;
   animation-duration: 1500ms;
   text-shadow: 0 2px 8px rgba(128,128,128,1);
-  margin: 219px 0 60px 855px;
+  margin: 215px 0 60px 855px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
     margin-right: 802px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-text-3 {
