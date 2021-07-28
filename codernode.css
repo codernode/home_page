@@ -17,14 +17,14 @@
 .u-section-1 .u-text-2 {
   font-size: 6rem;
   font-weight: 700;
-  margin: 334px auto 0;
+  margin: 259px auto 0;
 }
 
 .u-section-1 .u-text-3 {
   font-weight: 700;
   animation-duration: 1500ms;
   text-shadow: 0 2px 8px rgba(128,128,128,1);
-  margin: 290px 0 60px 966px;
+  margin: 219px 0 60px 855px;
 }
 
 @media (max-width: 1199px) {
@@ -33,6 +33,7 @@
   }
 
   .u-section-1 .u-text-3 {
+    margin-right: 0;
     margin-left: 766px;
   }
 }
